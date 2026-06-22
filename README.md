@@ -1,6 +1,6 @@
 # Diabetes Prediction Using Machine Learning
 
-This project demonstrates data cleaning, exploratory data analysis (EDA), handling missing values, outlier detection, model building, and deployment.
+This project demonstrates data cleaning, exploratory data analysis (EDA), handling missing values, outlier detection, and model building.
 
 ---
 
@@ -9,7 +9,7 @@ This project demonstrates data cleaning, exploratory data analysis (EDA), handli
 - [Dataset](#dataset)
 - [Project Pipeline](#project-pipeline)
 - [Model Performance](#model-performance)
-- [Deployment](#deployment)
+- [Model Testing](#model-testing)
 - [Tools](#-tools)
 
 ---
@@ -121,7 +121,7 @@ The following machine learning models were trained and tuned:
 
 ---
 
-## Deployment
+## Model Testing
 
 Source: `diabetes2.csv` 
 <br>
