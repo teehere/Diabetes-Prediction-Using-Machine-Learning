@@ -111,12 +111,13 @@ The following machine learning models were trained and tuned:
 
 ### Best Model
 
-**Stacking Classifier**
+**Stacking Classifier (highest accuracy)**
 - Accuracy: 78%
 - AUC: 0.8117
 
-**Highest AUC Model**
-- Random Forest (AUC = 0.8224)
+**Random Forest (higest AUC)**
+- Accuracy: 77%
+- AUC: 0.8224
 
 ---
 
